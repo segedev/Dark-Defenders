@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6ebd470a6fa7d5547b36778b64df1927
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nightscary Free Trial
+  fontNames:
+  - Nightscary Free Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 973dd36eb9ce7d643b622ce7ee677049, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
